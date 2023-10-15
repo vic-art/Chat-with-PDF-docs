@@ -1,5 +1,5 @@
-# Environments
 .env
 myenv/
-bin/
-lib/
+__pycache__/
+.DS_Store
+
